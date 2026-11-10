@@ -13,7 +13,7 @@ To get started, see [instructions](instructions.md).
 
 Questions, suggestions, feature requests, and contributions are all welcome! 
 
-* **For the Web Interface:** Feel free to [open an issue on this repository](https://github.com/noahbleau/cloudflare-ddns-web/issues/new/choose).
+* **For the Web Interface:** Feel free to [open an issue on this repository](https://github.com/exnc/cloudflare-ddns-web/issues/new/choose).
 * **For the Core DDNS functionality:** Please visit the [original repository](https://github.com/favonia/cloudflare-ddns/issues/new/choose).
 
 ## 📜 License
